@@ -1,0 +1,11 @@
+print("hello m.6/14")
+print("Kitsarit Sankum")
+print("29 October 2004")
+print("I like to play soccer")
+print("I have 1 brother")
+print("I am very handsome")
+print("I like painting")
+print("I am in grade 12")
+print("I like to eat padthai")
+print("I love the dogs")
+#กิตติ์สฤฤษฏิ์ แสนคำ เลขที่ 29
